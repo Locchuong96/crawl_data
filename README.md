@@ -1,7 +1,5 @@
 ### crawl_data
-web scraping, beautifulsoup, scrapy,etc.
-
-learn practice and some concepts from video, then read the offical document, then maybe ebook
+web scraping, beautifulsoup, scrapy,etc. learn practice and some concepts from video, then read the offical document, then maybe ebook
 
 **BeautifulSoup**
 
