@@ -11,6 +11,8 @@ web scraping, beautifulsoup, scrapy,etc. learn practice and some concepts from v
 
 [Comprehensive Python Beautiful Soup Web Scraping Tutorial! (find/find_all, css select, scrape table)](https://www.youtube.com/watch?v=GjKQ6V_ViQE)
 
+[web-scraping-method](https://www.youtube.com/watch?v=DqtlR0y0suo)
+
 **Scrapy**
 
 [official-website](https://scrapy.org/)
