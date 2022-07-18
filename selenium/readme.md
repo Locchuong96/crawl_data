@@ -42,35 +42,67 @@ driver attributes:
 these are some locating-element method in selenium
 
     Locating Elements
-    - Locating by Id
-    - Locating by Name
+    - [Locating by Id]()
+    - [Locating by Name]()
     - Locating by XPath
     - Locating Hyperlinks by Link Text
     - Locating Elements by Tag Name
     - Locating Elements by Class Name
-    - Locating Elements by CSS Selectors
+    - [Locating Elements by CSS Selectors]()
+
+default:
+
+    import os 
+    from selenium import webdriver
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+
+    # add web-driver into your os-environment, add new value to existing var +=, r for prefix
+    os.environ['PATH'] = r"C:/Users/PC/Desktop/crawl_data/selenium/driver"
+
+    # you can choice many option of web brower ex: Chrome,Edge,FireFox,etc.
+    driver = webdriver.Chrome() # webdriver.Chrome("./driver/chromedriver.exe")
+
+    # quit
+    driver.quit()
 
 [2/Explicit vs Implicit](./sub2)
 
-[target_page](https://en.wikipedia.org/wiki/Main_Page)
+[target_page](https://www.tutorialspoint.com/about/about_careers.htm)
 
 - implicit_wait : for the element
 - explicit_wait : more custom, for waitting a execution until some condition achives
 
 *Note* when you set `driver.implicitly_wait()` to find your element, it will apply across all elements
 
-[3/Sending Keys & CSS Selector]()
+[3/Sending Keys & CSS Selector](./sub3)
 
-[4/Structure a Bot Project]()
+[target_page](https://testpages.herokuapp.com/styled/calculator)
 
-[5/Deal Searching]()
+You want to  `sending keys` for register,login or authentication function. you can send-key a `string` or `number`
+if you find a multi class you can locating element by last word. You can send even more then value like `Enter`,`Shift`,`Ctrl + C`,etc. by import `Keys`: `from selenium.webdriver.common.keys import Keys`, inside `Keys` is some option of your key-command.
 
-[6/Booking Filtrations]()
+You can locating the element by css styling
 
-[7/Execution from a CLI]()
+    btn = driver.find_element_by_css_selector('button[onclick="return total"])
 
-[8/Deal Reporting]()
+[5/Locating element]()
+
+[6/Structure a Bot Project]()
+
+[7/Deal Searching]()
+
+[8/Booking Filtrations]()
+
+[9/Execution from a CLI]()
+
+[10/Deal Reporting]()
 
 ### references
 
 [Top 7 Websites to Practice Selenium Webdriver Online](https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#1httpsphptravelscomdemo)
+
+[css_selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+
+[Selenium with Python](https://selenium-python.readthedocs.io/index.html)
