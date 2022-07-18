@@ -1,0 +1,3 @@
+---------ChromeDriver 103.0.5060.53 (2022-06-22)---------
+Supports Chrome version 103
+Resolved issue 4048: target frame detached [Pri-]
