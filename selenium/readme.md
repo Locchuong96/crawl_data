@@ -28,10 +28,12 @@ please refer this [link](https://github.com/SeleniumHQ/selenium/blob/a4995e2c096
 
 [1/Getting Started with the basics](./sub1)
 
+[target_page](https://testpages.herokuapp.com/styled/download/download.html)
+
 - install selenium on Windows `pip install selenium==4.2.0`
 - download [web-driver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) check chrome-version on the browser `chrome://version`
 - set the link to web-driver executable-file in `PATH` os-environment variable, printout your os-variables in bash: `printenv`
-- test click download-button automaticly [test-button](https://testpages.herokuapp.com/styled/download/download.html), the first of first you have to identify your element, right-click on `inspect` in your browser, each page have unique html architecture and each html element is going to have html-type, we will find target element and by each type and some additional attributes.
+- test click download-button automaticly, the first of first you have to identify your element, right-click on `inspect` in your browser, each page have unique html architecture and each html element is going to have html-type, we will find target element and by each type and some additional attributes.
 
 driver attributes:
 
@@ -50,6 +52,11 @@ these are some locating-element method in selenium
 
 [2/Explicit vs Implicit](./sub2)
 
+[target_page](https://en.wikipedia.org/wiki/Main_Page)
+
+- implicit_wait : for the element
+- explicit_wait : more custom, for waitting a execution until some condition achives
+
 *Note* when you set `driver.implicitly_wait()` to find your element, it will apply across all elements
 
 [3/Sending Keys & CSS Selector]()
@@ -63,3 +70,7 @@ these are some locating-element method in selenium
 [7/Execution from a CLI]()
 
 [8/Deal Reporting]()
+
+### references
+
+[Top 7 Websites to Practice Selenium Webdriver Online](https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#1httpsphptravelscomdemo)
