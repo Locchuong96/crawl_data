@@ -83,7 +83,7 @@ default:
 
 [target_page](https://testpages.herokuapp.com/styled/calculator)
 
-You want to  `sending keys` for register,login or authentication function. you can send-key a `string` or `number`
+You want to `sending keys` for register,login or authentication function. you can send-key a `string` or `number`
 if you find a multi class you can locating element by last word. You can send even more then value like `Enter`,`Shift`,`Ctrl + C`,etc. by import `Keys`: `from selenium.webdriver.common.keys import Keys`, inside `Keys` is some option of your key-command.
 
 You can locating the element by css styling
@@ -95,7 +95,9 @@ You can locating the element by css styling
 
 [5/Locating element](./sub5)
 
-[6/Structure a Bot Project]()
+[6/Structure a Bot Project](.bot)
+
+don't run the bot frequently because your public ip will be lock by the service.
 
 [7/Deal Searching]()
 
