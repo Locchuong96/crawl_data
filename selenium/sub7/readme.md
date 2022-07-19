@@ -71,3 +71,6 @@ Use this when you want to locate an element by `class name`, when no element has
     content = driver.find_element(By.CLASS_NAME,'content')
 
 [7/ locating by css-selector](./pag6.html)
+
+Use this when you want to locate an element using [CSS selector](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) syntax. With this stategy, the first element matching the given CSS selector will be returned. If no element matches the provided CSS selector, a `NoSuchElementException` will be raised.
+
