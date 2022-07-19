@@ -26,7 +26,7 @@ please refer this [link](https://github.com/SeleniumHQ/selenium/blob/a4995e2c096
 
 ⭐️ Course Contents ⭐️
 
-[1/Getting Started with the basics](./sub1)
+[1/Getting Started with the basics](/sub1)
 
 [target_page](https://testpages.herokuapp.com/styled/download/download.html)
 
@@ -42,14 +42,14 @@ driver attributes:
 
 these are some locating-element method in selenium
 
-    Locating Elements
-    - [Locating by Id]()
-    - [Locating by Name]()
-    - Locating by XPath
-    - Locating Hyperlinks by Link Text
+    Locating Elements options   
+    - Locating by Id (unique element)
+    - Locating Elements by CSS Selectors] (very specific too)
+    - Locating Hyperlinks by Link Text (quite unique)
+    - Locating by Name
     - Locating Elements by Tag Name
     - Locating Elements by Class Name
-    - [Locating Elements by CSS Selectors]()
+    - Locating by XPath (not stable at all)
 
 default:
 
@@ -70,7 +70,7 @@ default:
 
 *Note:* Be aware that if your page uses a lot of AJAX on load then WebDriver may not know when it has completely loaded
 
-[2/Explicit vs Implicit](./sub2)
+[2/Explicit vs Implicit](/sub2)
 
 [target_page](https://www.tutorialspoint.com/about/about_careers.htm)
 
@@ -79,7 +79,7 @@ default:
 
 *Note* when you set `driver.implicitly_wait()` to find your element, it will apply across all elements
 
-[3/Sending Keys & CSS Selector](./sub3)
+[3/Sending Keys & CSS Selector](/sub3)
 
 [target_page](https://testpages.herokuapp.com/styled/calculator)
 
@@ -93,13 +93,13 @@ You can locating the element by css styling
 - `driver.quit()` will close the browser and the executable terminal
 - `driver.close()` will only closr the browser
 
-[5/Locating element](./sub5)
+[5/Locating element](/sub5)
 
-[6/Structure a Bot Project](.bot)
+[6/Structure a Bot Project](/bot)
 
-don't run the bot frequently because your public ip will be lock by the service.
+don't run the bot frequently because your public ip will be lock by the server.
 
-[7/Deal Searching]()
+[7/Deal Searching](/sub9)
 
 [8/Booking Filtrations]()
 
