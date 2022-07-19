@@ -93,7 +93,7 @@ You can locating the element by css styling
 - `driver.quit()` will close the browser and the executable terminal
 - `driver.close()` will only closr the browser
 
-[5/Locating element]()
+[5/Locating element](./sub5)
 
 [6/Structure a Bot Project]()
 
