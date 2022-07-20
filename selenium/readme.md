@@ -105,8 +105,15 @@ don't run the bot frequently because your public ip will be lock by the server.
 
 [9/Execution from a CLI](/selenium/sub11)
 
-[10/Deal Reporting]()
+set enviroment variable
 
+- Windows: `set PATH=%PATH%;C:path-to-your-floder`
+
+- Linux: `PATH=$PATH:/path/to/your/folder/`
+
+[10/Deal Reporting](/selenium/sub12)
+
+install pretty table `pip install pretty table`
 ### references
 
 [Top 7 Websites to Practice Selenium Webdriver Online](https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#1httpsphptravelscomdemo)
