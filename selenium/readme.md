@@ -103,7 +103,7 @@ don't run the bot frequently because your public ip will be lock by the server.
 
 [8/Booking Filtrations](/selenium/sub10)
 
-[9/Execution from a CLI]()
+[9/Execution from a CLI](/selenium/sub11)
 
 [10/Deal Reporting]()
 
