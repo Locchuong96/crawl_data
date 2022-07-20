@@ -40,7 +40,7 @@ driver attributes:
 
 [locating-elements](https://selenium-python.readthedocs.io/locating-elements.html#)
 
-these are some locating-element method in selenium
+these are some locating-element method in selenium, try to understand your element by looking around it or outside of it. is it a element on the table? or a list, or something.
 
     Locating Elements options   
     - Locating by Id (unique element)

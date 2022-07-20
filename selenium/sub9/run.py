@@ -9,6 +9,9 @@ from booking.booking import Booking
 # bot is the object created by booking class, but after execute command in with, your object will be activate __exit__ method and close the driver
 with Booking(teardown = False) as bot:
     bot.landing_page()
-    bot.change_currency(currency="GBP")
+    #bot.change_currency(currency="GBP")
     bot.select_place_to_go(place_to_go="New York")
+    bot.select_dates(checkin_date = "2022-07-20",checkout_date = "2022-07-21")
+    bot.select_adults(count = 3)
+    bot.submit_search()
     print('Existing ...')
