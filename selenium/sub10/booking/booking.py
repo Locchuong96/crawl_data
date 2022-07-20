@@ -1,6 +1,7 @@
 import os
 import booking.constants as const # run from the same directory as run.py
 from selenium import webdriver
+from booking.booking_filtration import BookingFiltration
 
 '''
 create a booking class define some methods that you will be reuse in the project,
@@ -114,6 +115,12 @@ class Booking(webdriver.Chrome):
     def submit_search(self):
         submit_search_element = self.find_element_by_css_selector('button[type="submit"]')
         submit_search_element.click()
+        
+    def apply_filtrations(self):
+        # add your booking filtration, pass your custom web-driver class (a.k.a your bot a.k.a self)
+        filtration = BookingFiltration(driver = self) # give the origin webdriver.Chrome into booking
+        filtration.apply_star_rating(1,2,5)
+        filtration.sort_price_lowest_first()
             
         
     
