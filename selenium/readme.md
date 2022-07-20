@@ -113,7 +113,10 @@ set enviroment variable
 
 [10/Deal Reporting](/selenium/sub12)
 
-install pretty table `pip install pretty table`
+install pretty table `pip install prettytable`
+
+[11/User's interaction](/selenium/sub13)
+
 ### references
 
 [Top 7 Websites to Practice Selenium Webdriver Online](https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#1httpsphptravelscomdemo)
