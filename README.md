@@ -1,6 +1,10 @@
 ### crawl_data
 web scraping, beautifulsoup, scrapy,etc. learn practice and some concepts from video, then read the offical document, then maybe ebook
 
+**Data source**
+
+    [PublicAPI] -> [html-request][beautifulsoup] -> [Selenium]
+
 **Request-HTML**
 
 [Python Tutorial: Web Scraping with Requests-HTML](https://www.youtube.com/watch?v=a6fIbtFB46g)

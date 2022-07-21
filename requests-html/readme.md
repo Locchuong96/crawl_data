@@ -111,8 +111,15 @@ the infomation created by javascript is dynamic and not easy to catch. requests-
 
 [4/ *sychronous* and *asychronous* request](/requests-html/sub4)
 
+[target-page](https://httpbin.org)
+
 *sychronous* and *asychronous* request
 
 - *sychronous request*: meaning after you give server the request, you have to wait until respone return without do nothing
+
+    # synchronous request
+    r = session.get('https://httpbin.org/delay/1')
+    response = r.html.url 
+    print(response)
 
 - *asychronous request*: meaning while waiting the response you can do something else. 

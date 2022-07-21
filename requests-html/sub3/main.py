@@ -2,7 +2,7 @@ from requests_html import HTML,HTMLSession
 #from prettytable import PrettyTable
 import csv
 
-csv_file = open('cm_scrape.csv','w')
+csv_file = open('./sub3/cm_scrape.csv','w')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Headline','Date','Author','Summary','youtube_link'])
 
