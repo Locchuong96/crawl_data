@@ -54,7 +54,7 @@ you can view contain in html with python script:
     match = html.find('#footer') # id
     match = html.find('div.article') # tag with specific class bt css selector
 
-[2/ sub2](/request-html/sub2)
+[2/ sub2](/requests-html/sub2)
 
 [target-page](https://coreyms.com/)
 
@@ -89,4 +89,4 @@ or
 3/ give the default value for each ifo
 4/ try to get the value, if it crash ignore it, take the default
 
-![img](/imgs/useless_infomation.png)
+![img](/requests-html/imgs/useless_infomation.png)
