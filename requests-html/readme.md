@@ -54,7 +54,7 @@ you can view contain in html with python script:
     match = html.find('#footer') # id
     match = html.find('div.article') # tag with specific class bt css selector
 
-[2/ sub2](/requests-html/sub2)
+[2/ crawl data from website with HTMLsession](/requests-html/sub2)
 
 [target-page](https://coreyms.com/)
 
