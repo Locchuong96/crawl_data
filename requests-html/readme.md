@@ -89,4 +89,30 @@ or
 3/ give the default value for each ifo
 4/ try to get the value, if it crash ignore it, take the default
 
-![img](/requests-html/imgs/useless_infomation.png)
+![img](/imgs/useless_infomation.png)
+
+[3/ export csv](/requests-html/sub3)
+
+get all link in html instance
+
+    from requests-html import HTMLSession
+    session = HTMLsession()
+    r = session.get('https://coreyms.com/')
+    print(r.html.links)
+
+the infomation created by javascript is dynamic and not easy to catch. requests-html can render the that kind of information by render the response like this
+
+    from requests-html import HTMLSession
+    session = HTMLsession()
+    r = session.get('https://coreyms.com/')
+    r.render()
+    match= html.find("#footer",first=True)
+    print(match)
+
+[4/ *sychronous* and *asychronous* request](/requests-html/sub4)
+
+*sychronous* and *asychronous* request
+
+- *sychronous request*: meaning after you give server the request, you have to wait until respone return without do nothing
+
+- *asychronous request*: meaning while waiting the response you can do something else. 
