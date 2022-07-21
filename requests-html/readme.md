@@ -1,6 +1,6 @@
 **Angenda**
 
-[1/ instalation](/sub1)
+[1/ instalation & first look](/sub1)
 
 There are 2 library `requests` and `requests-html`
 
@@ -9,12 +9,11 @@ There are 2 library `requests` and `requests-html`
 
 you can view contain in html with python script:
 
->>> python
->>> from requests_html import HTML
->>> with open('sub1/simple.html') as html_file:
-...    source = html_file.read()
-...    # print(source)
-...    html = HTML(source)
+    from requests_html import HTML
+
+    with open('simple.html') as html_file:
+        source = html_file.read()
+        html = HTML(html=source)
 
 `HTML` instance example:
 
@@ -43,3 +42,16 @@ you can view contain in html with python script:
     text
     url
     xpath
+
+- we can parse out the information inside html instance like
+
+    print(html.html)
+    print(html.text)
+    print(html.url)
+
+- find element with `.find()` method `match = html.find('title')`
+    match = html.find('title') # tag
+    match = html.find('#footer') # id
+    match = html.find('div.article') # tag with specific class bt css selector
+
+[2/ sub2](/sub2)
