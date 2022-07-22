@@ -148,17 +148,17 @@ install html5lib `pip install html5lib`
 
 *Local HTML Scraping:*
 
-[1/Basic HTML Structure, HTML Tags Explanation](/beautifulsoup/sub6)
+[1/Basic HTML Structure, HTML Tags Explanation]()
 
-[2/Packages Installation](/beautifulsoup/sub7)
+2/Packages Installation
 
-[3/Scraping Usage, Local files]()
+[3/Scraping Usage, Local files](/beautifulsoup/sub6)
 
-[4/Beautiful Soup find & find_all() methods]()
+[4/Beautiful Soup find & find_all() methods](/beautifulsoup/sub7)
 
 [5/Web Browser Inspect tool]()
 
-[6/Grab all Prices, Basic Scraping Project]()
+[6/Grab all Prices, Basic Scraping Project](/beautifulsoup/sub8)
 
 *Website Scraping:*
 
