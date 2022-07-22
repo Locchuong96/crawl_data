@@ -1,0 +1,61 @@
+Headline,Date,Author,Video_link,Page
+5 Common Python Mistakes and How to Fix Them,"April 22, 2019",Corey Schafer,https://www.youtube.com/embed/zdJEYhA2AZQ,2
+How I Setup a New Development Machine – Using Scripts to Automate Installs and Save Time,"April 15, 2019",Corey Schafer,https://www.youtube.com/embed/kIdiWut8eD8,2
+How to Write Python Scripts to Analyze JSON APIs and Sort Results,"April 9, 2019",Corey Schafer,https://www.youtube.com/embed/1lxrb_ezP-g,2
+Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager,"April 9, 2019",Corey Schafer,https://www.youtube.com/embed/SELYgZvAZbU,2
+Python Tutorial: VENV (Windows) – How to Use Virtual Environments with the Built-In venv Module,"April 6, 2019",Corey Schafer,https://www.youtube.com/embed/APOPm01BVrk,2
+Python Tutorial: VENV (Mac & Linux) – How to Use Virtual Environments with the Built-In venv Module,"April 6, 2019",Corey Schafer,https://www.youtube.com/embed/Kg1Yvry_Ydk,2
+10 Python Tips and Tricks For Writing Better Code,"March 25, 2019",Corey Schafer,https://www.youtube.com/embed/C-gEQdGVXbk,2
+"How to Send Emails Using Python – Plain Text, Adding Attachments, HTML Emails, and More","March 18, 2019",Corey Schafer,https://www.youtube.com/embed/JRCJ6RtE3xU,2
+Python Tutorial: Web Scraping with Requests-HTML,"March 11, 2019",Corey Schafer,https://www.youtube.com/embed/a6fIbtFB46g,2
+"Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers","March 4, 2019",Corey Schafer,https://www.youtube.com/embed/yqm6MBt-yfY,2
+"Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More","February 26, 2019",Corey Schafer,https://www.youtube.com/embed/tb8gHvYlCFs,3
+Python Django Tutorial: Deploying Your Application (Option #2) – Deploy using Heroku,"February 19, 2019",Corey Schafer,https://www.youtube.com/embed/6DI_7Zja8Zc,3
+Python Django Tutorial: Full-Featured Web App Part 13 – Using AWS S3 for File Uploads,"February 18, 2019",Corey Schafer,https://www.youtube.com/embed/kt3ZtW9MXhw,3
+Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let’s Encrypt,"January 29, 2019",Corey Schafer,https://www.youtube.com/embed/NhidVhNHfeU,3
+Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let’s Encrypt,"January 29, 2019",Corey Schafer,https://www.youtube.com/embed/Gdys9qPjuKs,3
+Python Django Tutorial: How to Use Custom Domain Name For Our Application,"January 17, 2019",Corey Schafer,https://www.youtube.com/embed/D2lwk1Ukgz0,3
+Python Flask Tutorial: How to Use Custom Domain Name For Our Application,"January 17, 2019",Corey Schafer,https://www.youtube.com/embed/LUFn-QVcmB8,3
+Python Flask Tutorial: Deploying Your Application (Option #1) – Deploy to a Linux Server,"December 20, 2018",Corey Schafer,https://www.youtube.com/embed/goToXTC96Co,3
+Python Django Tutorial: Deploying Your Application (Option #1) – Deploy to a Linux Server,"December 20, 2018",Corey Schafer,https://www.youtube.com/embed/Sa_kQheCnds,3
+Python Tutorial: Itertools Module – Iterator Functions for Efficient Looping,"November 16, 2018",Corey Schafer,https://www.youtube.com/embed/Qu3dThVy6KQ,3
+Python Coding Problem: Creating Your Own Iterators,"October 24, 2018",Corey Schafer,https://www.youtube.com/embed/C3Z9lJXI6Qw,4
+Python Tutorial: Iterators and Iterables – What Are They and How Do They Work?,"October 24, 2018",Corey Schafer,https://www.youtube.com/embed/jTYiNjvnHZY,4
+Python Tutorial: Pipenv – Easily Manage Packages and Virtual Environments,"October 17, 2018",Corey Schafer,https://www.youtube.com/embed/zDYL22QNiWk,4
+Python Django Tutorials – Full Series,"October 4, 2018",Corey Schafer,https://www.youtube.com/embed/UmljXZIypDc,4
+Best Sublime Text Features and Shortcuts,"August 9, 2018",Corey Schafer,https://www.youtube.com/embed/9FPFogHkgOc,4
+Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables,"August 9, 2018",Corey Schafer,https://www.youtube.com/embed/OdIHeg4jj2c,4
+Python Quick Tip: F-Strings – How to Use Them and Advanced String Formatting,"July 12, 2018",Corey Schafer,https://www.youtube.com/embed/nghuHvKLhJA,4
+"Big Announcements, Video Updates, and Future Plans","June 26, 2018",Corey Schafer,https://www.youtube.com/embed/OPUP4ghN9oo,4
+Python Tutorial: Sets – Set Methods and Operations to Solve Common Problems,"June 20, 2018",Corey Schafer,https://www.youtube.com/embed/r3R3h5ly_8g,4
+Python Flask Tutorials – Full Series,"June 20, 2018",Corey Schafer,https://www.youtube.com/embed/MwZwr5Tvyxo,4
+Linux/Mac Terminal Tutorial: The Grep Command – Search Files and Directories for Patterns of Text,"March 29, 2018",Corey Schafer,https://www.youtube.com/embed/VGgTmxXp7xQ,5
+How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux,"March 29, 2018",Corey Schafer,https://www.youtube.com/embed/xzgwDbe7foQ,5
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows),"March 29, 2018",Corey Schafer,https://www.youtube.com/embed/IolxqkL7cD8,5
+Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux),"March 29, 2018",Corey Schafer,https://www.youtube.com/embed/5iWhQWVXosU,5
+"Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals","March 29, 2018",Corey Schafer,https://www.youtube.com/embed/k8asfUbWbI4,5
+Python Tutorial: Context Managers – Efficiently Managing Resources,"December 22, 2017",Corey Schafer,https://www.youtube.com/embed/-aKFBoZpiqA,5
+Channel Update: Look Back on the Year and Big Plans for 2018,"December 18, 2017",Corey Schafer,https://www.youtube.com/embed/CtgkEaeOkew,5
+Python Tutorial: Working with JSON Data using the json Module,"December 6, 2017",Corey Schafer,https://www.youtube.com/embed/9N6a-VLBa2I,5
+Python Tutorial: Web Scraping with BeautifulSoup and Requests,"November 8, 2017",Corey Schafer,https://www.youtube.com/embed/ng2o98k983k,5
+Python Tutorial: re Module – How to Write and Match Regular Expressions (Regex),"October 24, 2017",Corey Schafer,https://www.youtube.com/embed/K8L6KVGG-7o,5
+Linux/Mac Terminal Tutorial: How To Use The rsync Command – Sync Files Locally and Remotely,"October 10, 2017",Corey Schafer,https://www.youtube.com/embed/qE77MbDnljA,6
+Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text,"October 10, 2017",Corey Schafer,https://www.youtube.com/embed/sa-TUpSx1JA,6
+5 Essential Skills Every Well-Rounded Programmer Should Know,"September 19, 2017",Corey Schafer,https://www.youtube.com/embed/TtIJEQ6D9DE,6
+"Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables","September 6, 2017",Corey Schafer,https://www.youtube.com/embed/cY2NXB_Tqq0,6
+Python Tutorial: Generate Random Numbers and Data Using the random Module,"September 6, 2017",Corey Schafer,https://www.youtube.com/embed/KzqSDvzOFNA,6
+Linux/Mac Tutorial: Cron Jobs – How to Schedule Commands with crontab,"August 23, 2017",Corey Schafer,https://www.youtube.com/embed/QZJ1drMQz1A,6
+Python Tutorial: Unit Testing Your Code with the unittest Module,"August 16, 2017",Corey Schafer,https://www.youtube.com/embed/6tNS--WetLI,6
+"Python Tutorial: CSV Module – How to Read, Parse, and Write CSV Files","August 9, 2017",Corey Schafer,https://www.youtube.com/embed/q5uM4VKywbA,6
+Linux/Mac Tutorial: SSH Key-Based Authentication – How to SSH Without a Password,"August 9, 2017",Corey Schafer,https://www.youtube.com/embed/vpk_1gldOAE,6
+Python Tutorial: Real World Example – Parsing Names From a CSV to an HTML List,"July 26, 2017",Corey Schafer,https://www.youtube.com/embed/bkpLhQd6YQM,6
+How to Create a Network of Machines in VirtualBox with SSH Access,"July 20, 2017",Corey Schafer,https://www.youtube.com/embed/S7jD6nnYJy0,7
+VirtualBox: How to Use Snapshots,"July 12, 2017",Corey Schafer,https://www.youtube.com/embed/Qte4X-rdr2Q,7
+Python Beginner Tutorials – Complete Series,"May 18, 2017",Corey Schafer,https://www.youtube.com/embed/YYXdXT2l-Gg,7
+"Python SQLite Tutorial: Complete Overview – Creating a Database, Table, and Running Queries","April 19, 2017",Corey Schafer,https://www.youtube.com/embed/pd-0G0MigUA,7
+"Channel Update: Code Snippets, New Rewards, and Playlists","April 17, 2017",Corey Schafer,https://www.youtube.com/embed/4qMJN1pY_aw,7
+Python Tutorial: Decorators With Arguments,"March 27, 2017",Corey Schafer,https://www.youtube.com/embed/KlBPCzcQNU8,7
+Python Tutorial: Anaconda – Installation and Using Conda,"March 24, 2017",Corey Schafer,https://www.youtube.com/embed/YJC6ldI3hWk,7
+"Python Tutorial: Datetime Module – How to work with Dates, Times, Timedeltas, and Timezones","March 24, 2017",Corey Schafer,https://www.youtube.com/embed/eirjjyP2qcQ,7
+Linux/Mac Terminal: How To Use The Find Command,"March 24, 2017",Corey Schafer,https://www.youtube.com/embed/KCVaNb_zOuw,7
+"Python Tutorial: Logging Advanced – Loggers, Handlers, and Formatters","March 24, 2017",Corey Schafer,https://www.youtube.com/embed/jxmzY9soFXg,7
