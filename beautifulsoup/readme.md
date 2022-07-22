@@ -182,7 +182,9 @@ install html5lib `pip install html5lib`
 
 [12/Setting up the Project to scrape every 10 minutes](/beautifulsoup/sub13)
 
-[13/Storing the jobs paragraph in text files]()
+[13/Storing the jobs paragraph in csv files](/beautifulsoup/sub14)
+
+[14/Scrape page-to-page](/beautifulsoup/sub15)
 
 **Tips**
 
