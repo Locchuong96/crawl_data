@@ -156,7 +156,7 @@ install html5lib `pip install html5lib`
 
 [4/Beautiful Soup find & find_all() methods](/beautifulsoup/sub7)
 
-[5/Web Browser Inspect tool]()
+5/Web Browser Inspect tool
 
 [6/Grab all Prices, Basic Scraping Project](/beautifulsoup/sub8)
 
