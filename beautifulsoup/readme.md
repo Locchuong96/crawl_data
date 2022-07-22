@@ -176,9 +176,9 @@ install html5lib `pip install html5lib`
 
 **Features addition:**
 
-[10/Prettifying the Jobs paragraph]()
+[10/Prettifying the Jobs paragraph](/beautifulsoup/sub11)
 
-[11/Jobs Filtration by owned skills]()
+[11/Jobs Filtration by owned skills](/beautifulsoup/sub12)
 
 [12/Setting up the Project to scrape every 10 minutes]()
 
