@@ -162,7 +162,9 @@ install html5lib `pip install html5lib`
 
 **Website Scraping:**
 
-[7/Using the Requests Library to see a Website's HTML]()
+[7/Using the Requests Library to see a Website's HTML](/beautifulsoup/sub9)
+
+[target-page](https://www.timesjobs.com/)
 
 [8/Scraping a Production Website, Best practices for pulling info]()
 
