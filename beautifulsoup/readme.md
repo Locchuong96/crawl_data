@@ -178,13 +178,31 @@ install html5lib `pip install html5lib`
 
 [10/Prettifying the Jobs paragraph](/beautifulsoup/sub11)
 
+[target-page](https://www.timesjobs.com/)
+
 [11/Jobs Filtration by owned skills](/beautifulsoup/sub12)
+
+[target-page](https://www.timesjobs.com/)
 
 [12/Setting up the Project to scrape every 10 minutes](/beautifulsoup/sub13)
 
+[target-page](https://www.timesjobs.com/)
+
 [13/Storing the jobs paragraph in csv files](/beautifulsoup/sub14)
 
+[target-page](https://www.timesjobs.com/)
+
+link:
+        url = f'https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords={keyword}'
+
 [14/Scrape page-to-page](/beautifulsoup/sub15)
+
+link with argument: 
+
+        url = f'https://www.timesjobs.com/candidate/job-search.html?from=submit&actualTxtKeywords={keyword}&searchBy=0&rdoOperator=OR&searchType=personalizedSearch&luceneResultSize=25&postWeek=60&txtKeywords={keyword}&pDate=I&sequence={i}&startPage={i}'
+        
+
+[target-page](https://www.timesjobs.com/)
 
 **Tips**
 
