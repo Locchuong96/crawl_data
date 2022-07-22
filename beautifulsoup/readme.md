@@ -166,9 +166,13 @@ install html5lib `pip install html5lib`
 
 [target-page](https://www.timesjobs.com/)
 
-[8/Scraping a Production Website, Best practices for pulling info]()
+[8/Scraping a Production Website, Best practices for pulling info](/beautifulsoup/sub9)
 
-[9/Looping through similar soup.find_all() objects]()
+[target-page](https://www.timesjobs.com/)
+
+[9/Looping through similar soup.find_all() objects](/beautifulsoup/sub10)
+
+[target-page](https://www.timesjobs.com/)
 
 **Features addition:**
 
