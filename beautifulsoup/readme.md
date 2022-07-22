@@ -150,7 +150,7 @@ install html5lib `pip install html5lib`
 
 [1/Basic HTML Structure, HTML Tags Explanation](/beautifulsoup/sub6)
 
-[2/Packages Installation]()
+[2/Packages Installation](/beautifulsoup/sub7)
 
 [3/Scraping Usage, Local files]()
 
