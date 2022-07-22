@@ -146,7 +146,7 @@ install html5lib `pip install html5lib`
         unwrap
         wrap
 
-*Local HTML Scraping:*
+**Local HTML Scraping:**
 
 [1/Basic HTML Structure, HTML Tags Explanation]()
 
@@ -160,7 +160,7 @@ install html5lib `pip install html5lib`
 
 [6/Grab all Prices, Basic Scraping Project](/beautifulsoup/sub8)
 
-*Website Scraping:*
+**Website Scraping:**
 
 [7/Using the Requests Library to see a Website's HTML]()
 
@@ -168,7 +168,7 @@ install html5lib `pip install html5lib`
 
 [9/Looping through similar soup.find_all() objects]()
 
-*Features addition:*
+**Features addition:**
 
 [10/Prettifying the Jobs paragraph]()
 
