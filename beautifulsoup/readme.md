@@ -180,7 +180,7 @@ install html5lib `pip install html5lib`
 
 [11/Jobs Filtration by owned skills](/beautifulsoup/sub12)
 
-[12/Setting up the Project to scrape every 10 minutes]()
+[12/Setting up the Project to scrape every 10 minutes](/beautifulsoup/sub13)
 
 [13/Storing the jobs paragraph in text files]()
 
